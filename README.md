@@ -6,7 +6,7 @@ Enhancing X-Transformer for extreme multi-label classification (XML) with interp
 ├── xtransformer-explain-robust/ <br>
 │ ├── xtf-explain-robust-bibtex.ipynb *(BibTeX dataset implementation)* <br>
 │ ├── xtf-explain-robust-delicious.ipynb *(Delicious dataset implementation)* <br>
-│ └── xtf-explain-robust-mediamill.ipynb *(MediaMill dataset implementation)* <br>
+│ ├── xtf-explain-robust-mediamill.ipynb *(MediaMill dataset implementation)* <br>
 │ └── requirements.txt *(Python dependencies)* <br>
 ├── Improving Interpretability, Explainability and Robustness of X-Transformer.pdf *(project report)* <br>
 └── README.md <br>
